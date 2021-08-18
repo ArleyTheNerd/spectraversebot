@@ -46,4 +46,4 @@ async def announce(ctx, *, message):
 
 
 keep_alive()
-client.run(os.getenv('TOKEN'))
+client.run((token goes here))
